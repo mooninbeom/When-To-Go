@@ -1,0 +1,76 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_keyboard_visibility (0.0.1):
+    - Flutter
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_native_splash (0.0.1):
+    - Flutter
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - naver_map_plugin (0.9.4):
+    - Flutter
+    - NMapsMap
+  - NMapsGeometry (1.0.1)
+  - NMapsMap (3.16.2):
+    - NMapsGeometry
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.0.4):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_keyboard_visibility (from `.symlinks/plugins/flutter_keyboard_visibility/ios`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - naver_map_plugin (from `.symlinks/plugins/naver_map_plugin/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+SPEC REPOS:
+  trunk:
+    - NMapsGeometry
+    - NMapsMap
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_keyboard_visibility:
+    :path: ".symlinks/plugins/flutter_keyboard_visibility/ios"
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  flutter_native_splash:
+    :path: ".symlinks/plugins/flutter_native_splash/ios"
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  naver_map_plugin:
+    :path: ".symlinks/plugins/naver_map_plugin/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_keyboard_visibility: 0339d06371254c3eb25eeb90ba8d17dca8f9c069
+  flutter_local_notifications: 0c0b1ae97e741e1521e4c1629a459d04b9aec743
+  flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
+  geolocator_apple: cc556e6844d508c95df1e87e3ea6fa4e58c50401
+  location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
+  naver_map_plugin: d1d67733c56b20b88270d9da51218e18fa916232
+  NMapsGeometry: 53c573ead66466681cf123f99f698dc8071a4b83
+  NMapsMap: aaa64717249b06ae82c3a3addb3a01f0e33100ab
+  path_provider_foundation: eaf5b3e458fc0e5fbb9940fb09980e853fe058b8
+  permission_handler_apple: 44366e37eaf29454a1e7b1b7d736c2cceaeb17ce
+
+PODFILE CHECKSUM: 94a6fe22c5cb1bf0dbc825b5c623d517dc6a278f
+
+COCOAPODS: 1.12.0
