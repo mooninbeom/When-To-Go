@@ -1,6 +1,6 @@
 # when_to_go
 
-Determine when i leave at home to find appropriate time.
+Suggest time when i leave at home to find appropriate time.
 
 ## Getting Started
 
